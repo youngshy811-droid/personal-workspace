@@ -36,3 +36,13 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+
+# runtime logs
+*.log
+启动日志.txt
+
+# personal local data and exported backups
+*.db
+*.sqlite
+*.sqlite3
+personal-workspace-*.json
